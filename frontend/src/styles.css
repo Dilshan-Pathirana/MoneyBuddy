@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.charts {
+  display: flex;
+  gap: 30px;
+  margin-top: 40px;
+}
+.ai-box {
+  margin-top: 30px;
+}
+textarea {
+  width: 300px;
+  height: 100px;
+}
